@@ -19,7 +19,7 @@ QueueEase is a virtual queue management platform designed to streamline appointm
 ## Installation
 To run QueueEase locally, follow these steps:
 
-```bash
+\`\`\`bash
 # Clone the repository
 git clone https://github.com/YOUR_USERNAME/QueueEase.git
 cd QueueEase
@@ -29,16 +29,16 @@ npm install
 
 # Start the application
 npm start
+\`\`\`
 
-Initial API EndPoints
+## Initial API Endpoints
 | Method | Endpoint | Description |
 |---|---|---|
 | GET | /api/health | Basic healthcheck |
 | GET | /api/version | Returns API version information |
 
-
-Contact
-
+## Contact
 For any queries related to QueueEase, please contact:
-	•	Student Number: X23211997
-	•	Email: X23211997@my.ncirl.ie
+
+- **Student Number:** X23211997
+- **Email:** X23211997@my.ncirl.ie
